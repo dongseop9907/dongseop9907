@@ -14,5 +14,7 @@
 10. 이현수
 
 ### 수업 장면
-<img src="C:/image/1.jpg" width="300" height="300">
-<img src="C:/image/2.jpg" width="300" height="300">
+<img src="image/1.jpg" width="300" height="300">
+<img src="image/2.jpg" width="300" height="300">
+![2](https://github.com/user-attachments/assets/f70465c1-573c-4987-bca4-5c0662b3c776)
+![1](https://github.com/user-attachments/assets/e8e874eb-b8d2-44fe-b3aa-80f6d08ad57c)

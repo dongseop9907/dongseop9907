@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
+  <diagram id="h-k_MGFAm7ZG3EkiZJqA" name="페이지-1">
+    <mxGraphModel dx="1482" dy="1286" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nPRci17mhooMHc9TcO9u-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="523" width="753" x="-5" y="282" as="geometry" />
+        </mxCell>
+        <mxCell id="nPRci17mhooMHc9TcO9u-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="221" width="292" x="9" y="306" as="geometry" />
+        </mxCell>
+        <mxCell id="nPRci17mhooMHc9TcO9u-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="-100" y="314" as="geometry" />
+        </mxCell>
+        <mxCell id="nPRci17mhooMHc9TcO9u-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="-102" y="439" as="geometry" />
+        </mxCell>
+        <mxCell id="nPRci17mhooMHc9TcO9u-7" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="-102" y="549" as="geometry" />
+        </mxCell>
+        <mxCell id="nPRci17mhooMHc9TcO9u-8" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="-100" y="663" as="geometry" />
+        </mxCell>
+        <mxCell id="nPRci17mhooMHc9TcO9u-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="건강 OCR 등록" vertex="1">
+          <mxGeometry height="34" width="102" x="16" y="323" as="geometry" />
+        </mxCell>
+        <mxCell id="nPRci17mhooMHc9TcO9u-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="데이터 수집 &amp;amp; 자동화" vertex="1">
+          <mxGeometry height="24" width="118" x="13" y="293" as="geometry" />
+        </mxCell>
+        <mxCell id="nPRci17mhooMHc9TcO9u-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="외부 OCR API" vertex="1">
+          <mxGeometry height="36" width="102" x="189" y="323" as="geometry" />
+        </mxCell>
+        <mxCell id="nPRci17mhooMHc9TcO9u-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="식단 사진 기록" vertex="1">
+          <mxGeometry height="34" width="102" x="16.5" y="363" as="geometry" />
+        </mxCell>
+        <mxCell id="nPRci17mhooMHc9TcO9u-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="웨어러블 기기 연동" vertex="1">
+          <mxGeometry height="34" width="122" x="17" y="404" as="geometry" />
+        </mxCell>
+        <mxCell id="nPRci17mhooMHc9TcO9u-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="생체 데이터 입력" vertex="1">
+          <mxGeometry height="34" width="130" x="17" y="448" as="geometry" />
+        </mxCell>
+        <mxCell id="nPRci17mhooMHc9TcO9u-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="건강 기록 수동 입력" vertex="1">
+          <mxGeometry height="34" width="139" x="16" y="486" as="geometry" />
+        </mxCell>
+        <mxCell id="nPRci17mhooMHc9TcO9u-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="외부 AI 음식 API" vertex="1">
+          <mxGeometry height="36" width="102" x="189" y="363" as="geometry" />
+        </mxCell>
+        <mxCell id="nPRci17mhooMHc9TcO9u-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Health API" vertex="1">
+          <mxGeometry height="35" width="90" x="208" y="404" as="geometry" />
+        </mxCell>
+        <mxCell id="nPRci17mhooMHc9TcO9u-25" edge="1" parent="1" source="nPRci17mhooMHc9TcO9u-9" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nPRci17mhooMHc9TcO9u-12" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="109" y="556" as="sourcePoint" />
+            <mxPoint x="269" y="556" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPRci17mhooMHc9TcO9u-26" edge="1" parent="1" source="nPRci17mhooMHc9TcO9u-17" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="nPRci17mhooMHc9TcO9u-22" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="169" y="395" as="sourcePoint" />
+            <mxPoint x="240" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPRci17mhooMHc9TcO9u-27" edge="1" parent="1" source="nPRci17mhooMHc9TcO9u-19" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="nPRci17mhooMHc9TcO9u-23" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="178" y="436" as="sourcePoint" />
+            <mxPoint x="249" y="437" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
